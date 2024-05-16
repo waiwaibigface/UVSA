@@ -1,5 +1,5 @@
 # 基于高层次特征提取的态势评估方法  
-This dataset is an underwater dataset collected for the purpose of [Project Name] research. It contains 326 video clips showcasing a variety of underwater scenes, such as coral reefs, seagrass beds, and deep-sea environments. 
+This dataset is an underwater dataset collected for the purpose of [UVSA] research. It contains 326 video clips that show a variety of underwater scenes, including coral reefs, seagrass beds, and deep sea environments.  
 ![图片名称]()
 
 ## Usage  
