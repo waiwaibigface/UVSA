@@ -21,7 +21,7 @@ videos
 ├── video221_270.zip
 ├── video271_326.zip
 ```
-#### Images
+#### Images & Labels
 :blush: We have provided 1630 images and their corresponding annotated images. Specifically, we randomly selected 5 sets of frame sequences from different time points in each of the 326 scenes, and annotated the last frame in each set of frame sequences. To ensure that there is no overlap of data between the training process and the test process, we divided the 326 scenes into a training set (262), a validation set (32), and a test set (32) at a ratio of 8:1:1. Therefore, the training set contains 1310 sets of images, while the test set and the validation set each contain 160 sets of images.
 ```
 images
@@ -52,7 +52,7 @@ labels
 │   │   └── ...
 │   │   └── 326_156.png
 ```
-#### Add_weighted
+#### Weighted images
 :smirk: In order to facilitate convenient access and review, we have consolidated the 1630 images and their corresponding annotated images through an image fusion process, and integrated the fused datasets into a single compressed archive file: ```Add_weighted.zip``` .
 ```
 Add_weighted (total of 1630 images, 640x480)
