@@ -9,7 +9,7 @@ git clone https://github.com/waiwaibigface/UVSA.git
 ```
 ### File Structure 
 #### Videos 
-In the ```UVSA/videos``` folder, there are 5 compressed files in the ```.zip``` format. The 5 compressed files contain a total of 326 underwater videos. The resolution of each video is different, but the frame rate is the same (30 frames per second), and the format is ```.mp4```. These videos were collected from different websites.
+In the ```UVSA/videos``` folder, there are 5 compressed files in the ```.zip``` format. The 5 compressed files contain a total of 326 underwater videos. The resolution of each video is different, but the frame rate is the same (30 fps), and the format is ```.mp4```. These videos were collected from different websites.
 ```
 videos
 ├── video1_90.zip
