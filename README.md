@@ -9,7 +9,7 @@ This dataset is an underwater dataset collected for the purpose of [UVSA] resear
 git clone https://github.com/waiwaibigface/UVSA.git
 ```
 
-* If the above method cannot be used for the download, you can choose to download using the following link.([百度网盘](https://pan.baidu.com/s/1If5aVXcf4AadfbVjDbH9-Q?pwd=wn66) password:wn66)
+* If the above method cannot be used for the download, you can choose to download using the following link.[Google Drive](https://drive.google.com/drive/u/0/folders/1qNSojE2wCD-K4f4WSzlDEM2uuK6qj7iY)([百度网盘](https://pan.baidu.com/s/1If5aVXcf4AadfbVjDbH9-Q?pwd=wn66) password:wn66)
 ### File Structure 
 #### Videos 
 In the ```UVSA/videos``` folder, there are 5 compressed files in the ```.zip``` format. The 5 compressed files contain a total of 326 underwater videos. The resolution of each video is different, but the frame rate is the same (30 fps), and the format is ```.mp4```. These videos were collected from different websites.
