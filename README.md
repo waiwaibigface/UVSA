@@ -1,4 +1,4 @@
-# 基于高层次特征提取的态势评估方法  
+# Underwater Vision-Based Situational Awareness for Autonomous  
 This dataset is an underwater dataset collected for the purpose of [UVSA] research. It contains 326 video clips that show a variety of underwater scenes, including coral reefs, seagrass beds, and deep sea environments.  
 
 ![Partial scene display](https://github.com/waiwaibigface/UVSA/blob/master/readme_pngs/1.jpg)
